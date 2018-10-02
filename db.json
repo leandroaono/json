@@ -1,6 +1,11 @@
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "123",
-    "body": "body"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "teste"
   }
+}
